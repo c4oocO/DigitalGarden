@@ -9,10 +9,9 @@
 预计周常更新学习笔记，或者骑车日常
 
 # 赛博搬砖工的日常工作
-[[Choco‘s wiki/Notes/Java反序列化\|Java反序列化]]
-[[Choco‘s wiki/Notes/RMI\|RMI]]
-[[Choco‘s wiki/Notes/反射\|反射]]
+[[Choco‘s wiki/Notes/JavaSec\|JavaSec]]
 
 
 
 # 菜🦵游记
+Strava [关注我](https://www.strava.com/athletes/136264268)
