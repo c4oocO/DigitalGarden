@@ -14,4 +14,4 @@
 
 
 # 菜🦵游记
-Strava [关注我](https://www.strava.com/athletes/136264268)
+Strava [关注我](https://www.strava.com/athletes/choco_z)
