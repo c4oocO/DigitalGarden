@@ -17,3 +17,4 @@
 Strava [关注我](https://www.strava.com/athletes/choco_z)
 [[Choco‘s wiki/Notes/2024-07-20 环太湖西山岛骑行游记\|2024-07-20 环太湖西山岛骑行游记]]
 [[Choco‘s wiki/Notes/2024-08-10 嵊泗环岛骑行\|2024-08-10 嵊泗环岛骑行]]
+[[Choco‘s wiki/Notes/2024-08-31 环淀山湖骑行\|2024-08-31 环淀山湖骑行]]
