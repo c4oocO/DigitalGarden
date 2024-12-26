@@ -11,11 +11,11 @@
 [[Choco‘s wiki/Notes/Java反序列化\|Java反序列化]]
 [[Choco‘s wiki/Notes/反射\|反射]]
 [[Choco‘s wiki/Notes/RMI\|RMI]]
-
+[[Choco‘s wiki/Notes/Java Agent\|Java Agent]]
 
 [[Choco‘s wiki/Notes/Java 反弹shell 截断踩坑\|Java 反弹shell 截断踩坑]]
 ## 内存马
-[[Netty/WebFlux 内存马\|Netty/WebFlux 内存马]]
+[[Choco‘s wiki/Notes/Others/WebFlux 内存马\|WebFlux 内存马]]
 
 # 文章收藏
 https://evilpan.com/2023/09/09/java-fuzzing/#fuzzing
