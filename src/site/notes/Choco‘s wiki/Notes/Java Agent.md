@@ -263,8 +263,11 @@ public class AgentDemo {
             inst.retransformClasses(targetClass);  
         } catch (Exception e) {  
             e.printStackTrace();  
-        }    }}
-    ```
+        }   
+    }
+}
+
+```
 
 这个方法需要引入 Javassist 库。两种方法，一个是构建工具Maven或者gradle添加依赖；还有就是直接在idea中添加：
 1. 打开 `File` > `Project Structure` > `Libraries`。
