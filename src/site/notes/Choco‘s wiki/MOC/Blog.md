@@ -10,7 +10,8 @@
 
 # 赛博搬砖工的日常工作
 [[Choco‘s wiki/Notes/JavaSec\|JavaSec]]
-
+[[Choco‘s wiki/Notes/Python Sec\|Python Sec]]
+[[Choco‘s wiki/Notes/一些小经验\|一些小经验]]
 
 
 # 菜🦵游记
