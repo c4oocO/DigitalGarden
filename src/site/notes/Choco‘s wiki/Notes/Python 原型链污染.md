@@ -4,6 +4,7 @@
 
 
 ## 原型链污染
+
 原型链污染（Prototype Pollution）一开始指的是 JavaScript 中，通过不当的代码操作，修改了 JavaScript 中对象的原型（prototype），从而影响到所有继承该原型的对象。
 
 在 JavaScript 中，原型链污染可能导致严重的安全问题，例如：
