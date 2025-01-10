@@ -9,9 +9,9 @@
 
 ## [[Choco‘s wiki/Notes/Java安全漫谈\|Java安全漫谈]]
 [[Choco‘s wiki/Notes/Java反序列化\|Java反序列化]]
-[[Choco‘s wiki/Notes/反射\|反射]]
-[[Choco‘s wiki/Notes/RMI\|RMI]]
-[[Choco‘s wiki/Notes/Java Agent\|Java Agent]]
+[[Choco‘s wiki/Notes/2023-12-25 反射\|2023-12-25 反射]]
+[[Choco‘s wiki/Notes/2024-06-24 RMI\|2024-06-24 RMI]]
+[[Choco‘s wiki/Notes/2024-12-30 Java Agent\|2024-12-30 Java Agent]]
 
 [[Choco‘s wiki/Notes/Java 反弹shell 截断踩坑\|Java 反弹shell 截断踩坑]]
 ## 内存马

@@ -8,10 +8,15 @@
 找了很多博客的形式，为了坚持记录，暂时选择了成本较低的[Obsidian Digital Garden](https://dg-docs.ole.dev/)方案。希望能坚持记录！
 预计周常更新学习笔记，或者骑车日常
 
+---
+> 为啥有的文章title有时间，有的没有？
+
+这套系统不能识别中文作为博客路径，为了防止路径冲突。
+
 # 赛博搬砖工的日常工作
 [[Choco‘s wiki/Notes/JavaSec\|JavaSec]]
 [[Choco‘s wiki/Notes/Python Sec\|Python Sec]]
-[[Choco‘s wiki/Notes/一些小经验\|一些小经验]]
+[[Choco‘s wiki/Notes/tips 一些小经验\|tips 一些小经验]]
 
 
 # 菜🦵游记
